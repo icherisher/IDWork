@@ -9,7 +9,7 @@
  * @email   hao.jingyang@163.com
  * @date    2017-10-18 10:05
  */
-namespace common\components\libraries;
+//namespace common\components\libraries;
 
 class IDWork
 {
