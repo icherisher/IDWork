@@ -1,2 +1,2 @@
 # php_IDWork
-PHP实现twitter-snowflake算法
+PHP实现的twitter-snowflake算法
